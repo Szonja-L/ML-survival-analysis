@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support
+Basal,1.0,1.0,1.0,26.0
+HER2,1.0,1.0,1.0,13.0
+LumA,1.0,1.0,1.0,46.0
+LumB,1.0,1.0,1.0,24.0
+Normal,1.0,1.0,1.0,11.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,120.0
+weighted avg,1.0,1.0,1.0,120.0

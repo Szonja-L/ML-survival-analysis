@@ -1,0 +1,11 @@
+Subtype_A,Subtype_B,Test_stat,p_value,Significant
+LumA,LumB,6.756,0.0093,**
+LumA,HER2,17.499,0.0,***
+LumA,Basal,24.392,0.0,***
+LumA,Normal,2.204,0.1377,ns
+LumB,HER2,2.486,0.1149,ns
+LumB,Basal,4.056,0.044,*
+LumB,Normal,0.342,0.5589,ns
+HER2,Basal,1.603,0.2055,ns
+HER2,Normal,3.503,0.0613,ns
+Basal,Normal,4.564,0.0327,*

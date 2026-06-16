@@ -1,0 +1,26 @@
+# TCGA-BRCA PAM50 Classification & Survival Analysis
+# Python 3.9+ required
+
+# Core scientific stack
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+
+# Interpretability
+shap>=0.42.0
+
+# Survival analysis
+lifelines>=0.27.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebook
+jupyter>=1.0.0
+nbformat>=5.7.0
+ipython>=8.0.0
