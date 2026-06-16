@@ -12,7 +12,7 @@
 
 ## Overview
 
-Breast cancer is not a single disease. The **PAM50 intrinsic subtype classifier** partitions tumours into five molecularly distinct groups — each with different biology, treatment response, and survival outcomes. This project builds a complete clinical bioinformatics pipeline on synthetic TCGA-BRCA data, combining machine learning classification with survival analysis and SHAP-based interpretability.
+Breast cancer is not a single disease. The **PAM50 intrinsic subtype classifier** partitions tumours into five molecularly distinct groups, each with different biology, treatment response, and survival outcomes. This project builds a complete clinical bioinformatics pipeline on synthetic TCGA-BRCA data, combining machine learning classification with survival analysis and SHAP-based interpretability.
 
 ```
 Gene Expression (PAM50 + extra genes)
